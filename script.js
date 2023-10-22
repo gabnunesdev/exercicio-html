@@ -1,5 +1,5 @@
 const anno = new Date(2023, 10, 22, 12, 57);
-const myName = "Gabriel Nunes Silva";
+const myName = "Gabriel Nunes";
 
 document.getElementById("name").innerText = myName;
 
